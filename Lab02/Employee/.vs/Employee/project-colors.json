@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a44e9f2d-97b8-4fc5-9774-a452b6a31f7a": {
+      "ProjectGuid": "a44e9f2d-97b8-4fc5-9774-a452b6a31f7a",
+      "DisplayName": "Employee",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
