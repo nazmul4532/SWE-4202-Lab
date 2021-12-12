@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "79c370f8-142c-40cf-86d2-3461d192ce32": {
+      "ProjectGuid": "79c370f8-142c-40cf-86d2-3461d192ce32",
+      "DisplayName": "Hotel Rental System",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
