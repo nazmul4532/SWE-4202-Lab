@@ -8,7 +8,7 @@ namespace Hotel_Management_System_II
 {
     internal class Room
     {
-        string RoomNo;
-        string RoomType;
+        public string RoomNo;
+        public string RoomType;
     }
 }
