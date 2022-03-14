@@ -1,0 +1,11 @@
+D:\Visual Studio\Employe Management with Exception Handling\bin\Debug\Employe Management with Exception Handling.exe.config
+D:\Visual Studio\Employe Management with Exception Handling\bin\Debug\Employe Management with Exception Handling.exe
+D:\Visual Studio\Employe Management with Exception Handling\bin\Debug\Employe Management with Exception Handling.pdb
+D:\Visual Studio\Employe Management with Exception Handling\obj\Debug\Employe Management with Exception Handling.csproj.AssemblyReference.cache
+D:\Visual Studio\Employe Management with Exception Handling\obj\Debug\Employe Management with Exception Handling.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Employe Management with Exception Handling\obj\Debug\Employe_Management_with_Exception_Handling.Form1.resources
+D:\Visual Studio\Employe Management with Exception Handling\obj\Debug\Employe_Management_with_Exception_Handling.Properties.Resources.resources
+D:\Visual Studio\Employe Management with Exception Handling\obj\Debug\Employe Management with Exception Handling.csproj.GenerateResource.cache
+D:\Visual Studio\Employe Management with Exception Handling\obj\Debug\Employe Management with Exception Handling.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Employe Management with Exception Handling\obj\Debug\Employe Management with Exception Handling.exe
+D:\Visual Studio\Employe Management with Exception Handling\obj\Debug\Employe Management with Exception Handling.pdb
