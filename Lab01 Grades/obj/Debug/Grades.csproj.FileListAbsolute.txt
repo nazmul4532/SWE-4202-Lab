@@ -1,0 +1,30 @@
+E:\New folder\Grades\bin\Debug\Grades.exe.config
+E:\New folder\Grades\bin\Debug\Grades.exe
+E:\New folder\Grades\bin\Debug\Grades.pdb
+E:\New folder\Grades\obj\Debug\Grades.csproj.AssemblyReference.cache
+E:\New folder\Grades\obj\Debug\Grades.csproj.SuggestedBindingRedirects.cache
+E:\New folder\Grades\obj\Debug\Grades.Form1.resources
+E:\New folder\Grades\obj\Debug\Grades.Properties.Resources.resources
+E:\New folder\Grades\obj\Debug\Grades.csproj.GenerateResource.cache
+E:\New folder\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+E:\New folder\Grades\obj\Debug\Grades.exe
+E:\New folder\Grades\obj\Debug\Grades.pdb
+E:\Visual Studio Lab\Grades\obj\Debug\Grades.csproj.AssemblyReference.cache
+E:\Visual Studio Lab\Grades\obj\Debug\Grades.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Lab\Grades\obj\Debug\Grades.Form1.resources
+E:\Visual Studio Lab\Grades\obj\Debug\Grades.Properties.Resources.resources
+E:\Visual Studio Lab\Grades\obj\Debug\Grades.csproj.GenerateResource.cache
+E:\Visual Studio Lab\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+E:\Visual Studio Lab\Grades\obj\Debug\Grades.exe
+E:\Visual Studio Lab\Grades\obj\Debug\Grades.pdb
+H:\Visual Studio Lab\Grades\obj\Debug\Grades.csproj.AssemblyReference.cache
+H:\Visual Studio Lab\Grades\obj\Debug\Grades.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio Lab\Grades\obj\Debug\Grades.Form1.resources
+H:\Visual Studio Lab\Grades\obj\Debug\Grades.Properties.Resources.resources
+H:\Visual Studio Lab\Grades\obj\Debug\Grades.csproj.GenerateResource.cache
+H:\Visual Studio Lab\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+H:\Visual Studio Lab\Grades\obj\Debug\Grades.exe
+H:\Visual Studio Lab\Grades\obj\Debug\Grades.pdb
+H:\Visual Studio Lab\Grades\bin\Debug\Grades.exe.config
+H:\Visual Studio Lab\Grades\bin\Debug\Grades.exe
+H:\Visual Studio Lab\Grades\bin\Debug\Grades.pdb
